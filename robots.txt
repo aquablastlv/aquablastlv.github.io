@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://aquablast.lv/sitemap.xml
