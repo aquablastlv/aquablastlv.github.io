@@ -3620,7 +3620,6 @@ img:not([src]) {
 }
 
 .t570 .t-map-lazyload {
-	background-color: rgb(229, 227, 223)
 }
 
 @media screen and (max-width:960px) {
